@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/zhizhi-early-edu/sw.js', { scope: '/zhizhi-early-edu/' })})}
